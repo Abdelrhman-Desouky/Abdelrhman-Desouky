@@ -45,62 +45,43 @@ I'm **Abdelrhman Desouky**, a **Data Engineer** with a Computer Science backgrou
 
 <div align="center">
 
-<h3>🐍 Programming & Query Languages</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" alt="SQL" />
-</p>
-
-<h3>⚙️ Data Processing & Streaming</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Apache Hadoop" />
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive" />
-</p>
-
-<h3>🔄 ETL / ELT & Orchestration</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Informatica%20PowerCenter-FF4D00?style=for-the-badge&logoColor=white" alt="Informatica PowerCenter" />
-  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logoColor=white" alt="SSIS" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
-<h3>🗄️ Databases & Data Warehousing</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<h3>☁️ Cloud, Storage & Analytics</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logoColor=white" alt="Azure Blob Storage" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=for-the-badge&logoColor=white" alt="Microsoft Fabric" />
-  <img src="https://img.shields.io/badge/SeaweedFS-2E8B57?style=for-the-badge&logoColor=white" alt="SeaweedFS" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
-</p>
-
-<h3>🛠️ Development Tools</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" /><br/><b>Python</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="48" height="48" /><br/><b>SQL</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="48" height="48" /><br/><b>Apache Spark</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="PySpark" width="48" height="48" /><br/><b>PySpark</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="48" height="48" /><br/><b>Apache Kafka</b></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="48" height="48" /><br/><b>Apache Hadoop</b></td>
+<td align="center" width="110"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Apache Hive" width="48" height="48" /><br/><b>Apache Hive</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="48" height="48" /><br/><b>Apache Airflow</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dbt.svg" alt="dbt" width="48" height="48" /><br/><b>dbt</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/informatica.svg" alt="Informatica" width="48" height="48" /><br/><b>Informatica</b></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" alt="n8n" width="48" height="48" /><br/><b>n8n</b></td>
+<td align="center" width="110"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="48" height="48" /><br/><b>Snowflake</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" /><br/><b>SQL Server</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /><br/><b>PostgreSQL</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" /><br/><b>Oracle</b></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" /><br/><b>MongoDB</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="48" height="48" /><br/><b>Microsoft Azure</b></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Storage-Accounts.svg" alt="Azure Blob Storage" width="48" height="48" /><br/><b>Azure Blob Storage</b></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/seaweedfs.png" alt="SeaweedFS" width="48" height="48" /><br/><b>SeaweedFS</b></td>
+<td align="center" width="110"><img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="48" height="48" /><br/><b>MinIO</b></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="48" height="48" /><br/><b>Power BI</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" /><br/><b>Docker</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48" height="48" /><br/><b>Git</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="48" height="48" /><br/><b>GitHub</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /><br/><b>Linux</b></td>
+</tr>
+</table>
 
 </div>
 

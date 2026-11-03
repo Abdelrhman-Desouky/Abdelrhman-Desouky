@@ -51,25 +51,20 @@ I'm **Abdelrhman Desouky**, a **Data Engineer** with a Computer Science backgrou
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="48" height="48" /><br/><b>SQL</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="48" height="48" /><br/><b>Apache Spark</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="PySpark" width="48" height="48" /><br/><b>PySpark</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" /><br/><b>Oracle</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="48" height="48" /><br/><b>Apache Kafka</b></td>
 </tr>
 <tr>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="48" height="48" /><br/><b>Apache Hadoop</b></td>
 <td align="center" width="110"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Apache Hive" width="48" height="48" /><br/><b>Apache Hive</b></td>
+<td align="center" width="110"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="48" height="48" /><br/><b>Snowflake</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="48" height="48" /><br/><b>Apache Airflow</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dbt.svg" alt="dbt" width="48" height="48" /><br/><b>dbt</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/informatica.svg" alt="Informatica" width="48" height="48" /><br/><b>Informatica</b></td>
 </tr>
-<tr>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" alt="n8n" width="48" height="48" /><br/><b>n8n</b></td>
-<td align="center" width="110"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="48" height="48" /><br/><b>Snowflake</b></td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" /><br/><b>SQL Server</b></td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /><br/><b>PostgreSQL</b></td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" /><br/><b>Oracle</b></td>
-</tr>
-<tr>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" /><br/><b>MongoDB</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="48" height="48" /><br/><b>Microsoft Azure</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" alt="n8n" width="48" height="48" /><br/><b>n8n</b></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Storage-Accounts.svg" alt="Azure Blob Storage" width="48" height="48" /><br/><b>Azure Blob Storage</b></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/seaweedfs.png" alt="SeaweedFS" width="48" height="48" /><br/><b>SeaweedFS</b></td>
 <td align="center" width="110"><img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="48" height="48" /><br/><b>MinIO</b></td>
@@ -78,8 +73,11 @@ I'm **Abdelrhman Desouky**, a **Data Engineer** with a Computer Science backgrou
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="48" height="48" /><br/><b>Power BI</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" /><br/><b>Docker</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48" height="48" /><br/><b>Git</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48" /><br/><b>SQL Server</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="48" height="48" /><br/><b>GitHub</b></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" /><br/><b>Linux</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /><br/><b>PostgreSQL</b></td>
+</tr>
 </tr>
 </table>
 

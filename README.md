@@ -15,12 +15,11 @@
     <img src="https://img.shields.io/badge/View_Resume-8B5CF6?style=for-the-badge" alt="View Resume" />
   </a>
 </p><h2 align="center">👨‍💻 About Me</h2>
-I'm **Abdelrhman Desouky**, a **Data Engineer** with a Computer Science background and hands-on experience building end-to-end data pipelines, data warehouses, and data lakes.
-
-- Build **batch and streaming pipelines** using Python, SQL, Apache Spark, and Kafka.
-- Develop **ETL/ELT workflows** with Airflow, dbt, SSIS, and Informatica PowerCenter.
-- Work with **Snowflake, SQL Server, and Azure** to prepare data for analytics.
-- Apply **dimensional modeling, data quality checks, and layered data processing** to create reliable, analytics-ready datasets.
+I'm Abdelrhman Desouky, a Data Engineer with a Computer Science background and hands-on experience building end-to-end data pipelines, data warehouses, and data lakes.
+- Build batch and streaming pipelines using Python, SQL, Apache Spark, and Kafka.
+- Develop ETL/ELT workflows with Airflow, dbt, SSIS, and Informatica PowerCenter.
+- Work with Snowflake, SQL Server, and Azure to prepare data for analytics.
+- Apply dimensional modeling, data quality checks, and layered data processing to create reliable, analytics-ready datasets.
 - Passionate about solving data problems and improving pipeline reliability.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
 <h2 align="center">🚀 Technical Skills</h2><div align="center"><table>
